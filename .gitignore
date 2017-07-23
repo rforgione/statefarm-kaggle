@@ -1,2 +1,7 @@
 data/
 *.jpg
+*.csv
+*.h5
+*.jpeg
+original_data/
+data_old/
