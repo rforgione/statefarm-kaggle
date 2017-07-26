@@ -5,3 +5,7 @@ data/
 *.jpeg
 original_data/
 data_old/
+*.png
+sample/
+microsample/
+*.zip
